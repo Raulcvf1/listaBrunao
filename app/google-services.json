@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478370664517",
+    "project_id": "projeto3bim-9a548",
+    "storage_bucket": "projeto3bim-9a548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478370664517:android:43e99d1dc741606a1d132c",
+        "android_client_info": {
+          "package_name": "com.example.listabrunao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrpzcgEPQ7IAutdnDDxhjYSeJtpkJX0u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

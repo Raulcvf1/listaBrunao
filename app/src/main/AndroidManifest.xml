@@ -21,6 +21,15 @@
             </intent-filter>
         </activity>
 
+        <!-- Adicionando a UploadActivity -->
+        <activity
+            android:name=".UploadActivity"
+            android:exported="false" /> <!-- Define como "true" se quiser que seja acessível de fora do app -->
+
+        <activity
+            android:name=".ImageViewerActivity"
+            android:exported="false" />
+
     </application>
 
 </manifest>
